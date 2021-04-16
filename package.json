@@ -8,8 +8,8 @@
     "test": "test"
   },
   "dependencies": {
-    "async": "~0.2.9",
-    "redis": "~0.8.4"
+    "async": "^3.2.5",
+    "redis": "^4.6.12"
   },
   "devDependencies": {},
   "scripts": {
@@ -26,8 +26,8 @@
     "sharding"
   ],
   "author": {
-    "name":"wapj",
-    "email":"wapj2000@gmail.com"
+    "name": "wapj",
+    "email": "wapj2000@gmail.com"
   },
   "license": "MIT",
   "bugs": {
